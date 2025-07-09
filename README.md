@@ -10,7 +10,7 @@ TEMU is the all-in-one solution that empowers you to build professional dashboar
   <a href="https://www.themecozy.com/item/temu-reactjs-nextjs-admin-dashboard-template/686d3dfc5144d429c3a55b4d" target="_blank">Buy Now</a>
 <span>
 </div>
-
+<br />
 ⭐ Key Features
 ✅ Developed with React.js and Next.js
 
@@ -40,3 +40,9 @@ TEMU is the all-in-one solution that empowers you to build professional dashboar
 🔹 Free initial support for installation and customization
 
 🌟 Why Choose TEMU?
+TEMU gives you the freedom to build modern admin dashboards with the latest front-end technologies while staying flexible and scalable as your project grows. 
+
+🚀 Get TEMU Now
+📩 Message us directly to request a live demo and access to the source code
+📞 Telegram: https://t.me/chris_lev11
+🌐 Website: https://www.cenpha.com/
